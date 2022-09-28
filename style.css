@@ -1,0 +1,27 @@
+body{
+
+    background-color: black;
+
+
+}
+
+
+.container{
+
+
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+
+
+.title{
+    
+    color: white;
+    font-family: 'Abyssinica SIL', serif;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
